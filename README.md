@@ -138,7 +138,7 @@ Benefits:
 
 Used technologies:
 
-* SharedPreferences
+* Hive
 * Local caching system
 
 Stores:
